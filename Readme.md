@@ -1,3 +1,3 @@
-www.validyne.com - Validyne Engineering 
+https://www.validyne.com - Validyne Engineering 
 
-www.nexusgaming.duckydns.org - Personal Website for Fun
+http://nexusgaming.duckydns.org - Personal Website for Fun
